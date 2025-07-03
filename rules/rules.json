@@ -1,0 +1,12 @@
+{
+  "AAPL": {
+    "priceAbove": 200,
+    "rsiBelow": 30,
+    "macdCross": "bearish"
+  },
+  "TSLA": {
+    "priceAbove": 300,
+    "rsiBelow": 40,
+    "macdCross": "bullish"
+  }
+}
