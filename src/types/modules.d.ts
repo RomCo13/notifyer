@@ -1,0 +1,9 @@
+declare module 'axios';
+declare module '@nestjs/common';
+declare module '@nestjs/core';
+declare module '@nestjs/schedule';
+declare module 'yaml';
+declare module 'dotenv';
+declare module 'fs';
+declare module 'path';
+declare module 'child_process';

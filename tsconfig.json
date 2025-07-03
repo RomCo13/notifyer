@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2019",
+    "declaration": true,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "types": ["./src/types/modules.d.ts", "./src/types/globals.d.ts"],
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts"]
+}
